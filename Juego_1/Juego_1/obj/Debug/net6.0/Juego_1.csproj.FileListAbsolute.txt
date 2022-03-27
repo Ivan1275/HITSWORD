@@ -1,0 +1,45 @@
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.exe
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.deps.json
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.runtimeconfig.json
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.dll
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\bin\Debug\net6.0\ref\Juego_1.dll
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.pdb
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.csproj.AssemblyReference.cache
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.AssemblyInfoInputs.cache
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.AssemblyInfo.cs
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.csproj.CoreCompileInputs.cache
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.dll
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\ref\Juego_1.dll
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.pdb
+C:\Users\AlumGS\source\repos\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.genruntimeconfig.cache
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.exe
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.deps.json
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.runtimeconfig.json
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.dll
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.pdb
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.csproj.AssemblyReference.cache
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.GeneratedMSBuildEditorConfig.editorconfig
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.AssemblyInfoInputs.cache
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.AssemblyInfo.cs
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.csproj.CoreCompileInputs.cache
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.dll
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\refint\Juego_1.dll
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.pdb
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.genruntimeconfig.cache
+K:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\ref\Juego_1.dll
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.exe
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.deps.json
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.runtimeconfig.json
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.dll
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\ref\Juego_1.dll
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\bin\Debug\net6.0\Juego_1.pdb
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.csproj.AssemblyReference.cache
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.AssemblyInfoInputs.cache
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.AssemblyInfo.cs
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.csproj.CoreCompileInputs.cache
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.dll
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\ref\Juego_1.dll
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.pdb
+H:\Curso DAW\Programacion\MVS\Juego_1\Juego_1\obj\Debug\net6.0\Juego_1.genruntimeconfig.cache
